@@ -34,7 +34,7 @@ description: ~
 
 - fortune
 
-![](https://cdn.himoyo.cn/manual/Screenshot 2023-11-18 215431.png)
+![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20215431.png)
 
 
 
@@ -44,7 +44,7 @@ description: ~
 
 - sign
 
-![](https://cdn.himoyo.cn/manual/Screenshot 2023-11-18 221143.png)
+![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20221143.png)
 
 
 
@@ -56,7 +56,7 @@ description: ~
 - coinwager [coin] (一次性投入 coin 枚柠檬片，等到一定机会可以拿到多奖励~)
 - coinfull (检查你还有多少柠檬片呢w)
 
-![](https://cdn.himoyo.cn/manual/Screenshot 2023-11-18 221534.png)
+![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20221534.png)
 
 
 
@@ -82,7 +82,7 @@ description: ~
 
 > 关于底图预设,请查询: [mai_plate](https://lucy.lemonkoi.one/mai_plate/) 底图通用
 
-![](https://cdn.himoyo.cn/manual/Screenshot 2023-11-18 220041.png)
+![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20220041.png)
 
 * 底图设计来源于 [Isoheptane](https://github.com/Isoheptane)
 
@@ -113,7 +113,7 @@ description: ~
 
 - pgr roll [20-40] (向下查询您的 Phigros 成绩 ，最高支持到 40首)
 
- ![](https://cdn.himoyo.cn/manual/Screenshot 2023-11-18 220915.png)
+ ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20220915.png)
 
 
 
