@@ -15,8 +15,8 @@ description: ~
 > 原生 Reibot 类功能，本身是在 Zerobot-Plugin 系 Bot 下使用，后作为简单的管理 Bot 启用 / 禁用
 
 
-
 - response 启动响应 ( 第一次使用需要启用响应，默认拉入不工作 )
+
 - slience 睡眠 (阻止 Lucy 在群中发言 )
 
 
@@ -24,8 +24,21 @@ description: ~
 #### 此外还支持以下群组管理功能
 
 - disable / enable 针对 插件进行 禁用 / 启用 ( 方式: /enable  {Plugin_name}|| disable {plugin_name} )
+
 - service_list 查询插件名称
 
+
+### 对话 (Chat)
+
+> 一些 Lucy 在 Onebot 上的对话功能，经过一部分魔改移植x
+
+- Lucy
+
+> Lucy 会听到并且做出一些答复，在部分情况下可以使用 Lucy + (simai回复词) 实现基础互动而不是@
+
+- callname
+
+> 可以用这个给 Lucy 设定 自己的名字 ，在和 Lucy 互动的时候 {name} || {你} 将会被修改为此名字x
 
 
 ### 运势 (Fortune)
@@ -66,7 +79,11 @@ description: ~
 
 - Lolicon
 
+### Reborn
 
+> 随机重生~ 但是没有 Trans 属性
+
+- reborn
 
 ### MaiMai
 
@@ -121,6 +138,7 @@ description: ~
 
 > 请参考 其他家 Bot , 这边只是说明有这个功能x
 
+> 设计同 [SlashBot](https://github.com/Rongronggg9/SlashBot)
 
 
 ### Simai
@@ -130,6 +148,13 @@ description: ~
 > 使用了2w+的回复库，看Lucy心情，可能就回复你了w
 
 
+### Status
+
+> 给 Lucy 检查一下身体吧
+
+- status
+
+~~虽然说已经被玩坏了x~~
 
 ### 搜番 (TraceMoe)
 
