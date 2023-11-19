@@ -12,7 +12,7 @@ description: ~
 
 Hi! ~这是一份关于 Lucy 的说明书
 
-Lucy 的基础人设 : [Link](https://moe.himoyo.cn/archives/14/)
+Lucy 的基础人设 : [Link](https://lemonkoi.one/archives/14/)
 
 
 
