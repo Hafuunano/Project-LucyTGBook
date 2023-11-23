@@ -4,8 +4,9 @@ title: 🌈OverView For Lucy's Magic✨.
 description: ~
 ---
 
-> 目前 Lucy for Telegram 版本为雏形，大部分的功能基于 For Onebot 版本移植~
+> 第一次在群组使用 管理员 需自行 /response 一次 | 如果 需要 Bot 静下来，可使用 /slience 闭嘴
 
+> 目前 Lucy for Telegram 版本为雏形，大部分的功能基于 For Onebot 版本移植~
 
 
 ## Function
@@ -40,6 +41,18 @@ description: ~
 
 > 可以用这个给 Lucy 设定 自己的名字 ，在和 Lucy 互动的时候 {name} || {你} 将会被修改为此名字x
 
+### Action
+
+> 水个群把(?) | 默认禁用 
+
+- 喵 | 咕咕
+
+
+###  Stickers
+
+> 一定概率下，抽取用户发送 Stickers Collecions 中其中一张贴纸
+
+- (Stickers)
 
 ### 运势 (Fortune)
 
@@ -66,12 +79,41 @@ description: ~
 > 一些使用柠檬片互动的简单机制~
 
 - coinroll (抽奖一次哦~需要60片一次x)
+
 - coinwager [coin] (一次性投入 coin 枚柠檬片，等到一定机会可以拿到多奖励~)
+
 - coinfull (检查你还有多少柠檬片呢w)
+
+- coinrob @User (抢@User的 柠檬片)
+
+- coincheat @User [coin] (骗@User的[coins]个柠檬片)
+
+- coinhand @User [coin] (给@User转[coins]个柠檬片)
+
+- coinstaus [Enable/Disable] (启用/禁用 柠檬片互动)
+
+> 24小时尽可修改一次
 
 ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20221534.png)
 
 
+### 群老婆(GroupWife)
+
+> 源自于 Lucy For Onebot 上的 老婆插件, 魔改于 FloatTech / Zerobot-Plugin 重写
+
+- marry @User (娶某个人) / 概率性
+
+- wife (随机群老婆~)
+
+- divorce (离婚)  /  概率性
+
+- chwaifu @User (骗 @User 做自己的老婆)
+
+- waifulist (输出今日群老婆列表)
+
+- waifuwish @User (许愿 @User 在下次机会时第一次抽到概率增大)
+
+> 其中 **chwaifu/divorce/marry** 为 调用限制，当天调用少
 
 ### Lolicon
 
@@ -92,9 +134,13 @@ description: ~
 - mai (查询您的 maimai B50)
 
 - mai bind (绑定用户查分名)
+
 - mai plate (自定义绑定区域称号)
+
 - mai upload (自定义上传底图)
+
 - mai remove (移除自带的底图)
+
 - mai defplate (使用自带的maimai底图预设)
 
 > 关于底图预设,请查询: [mai_plate](https://lucy.lemonkoi.one/mai_plate/) 底图通用
@@ -110,9 +156,9 @@ description: ~
 > Phigros 查分，数据来源于 * Phigros Library Project 逆向结果
 
 > 使用到的项目：
->
+
 > PhigrosLibrary: [PhigrosLibrary](https://github.com/7aGiven/PhigrosLibrary)
->
+
 > PhigrosLibrary-FlaskAPI : [PhigrosLibrary-FlaskAPI ](https://github.com/MoYoez/PhigrosLibrary-FlaskAPI)
 
 
@@ -120,8 +166,10 @@ description: ~
 - pgr bind  (绑定Session)
 
 > 此处的 Session 请前往 [关于 Phigros B19 Session 绑定](https://phi.lemonkoi.one/) 绑定
->
+
+
 > * 此页面本为 Lucy For Onebot 进行适配，**请在填写QQ的地方填入你的Telegram UserinfoID**
+
 > * 同时传回的结果 **将 ! 改为 /**
 
 - pgr (查询您的 phigros b19 成绩表)
@@ -155,6 +203,12 @@ description: ~
 - status
 
 ~~虽然说已经被玩坏了x~~
+
+### DataUpdate (数据更新)
+
+> 更新用户数据部分，如果你的用户名有变动的话记得使用 (  可不使用, Lucy在每24小时后自动刷新一次  )
+
+- dataupdate
 
 ### 搜番 (TraceMoe)
 
