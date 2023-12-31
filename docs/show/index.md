@@ -143,6 +143,9 @@ description: ~
 
 - mai defplate (使用自带的maimai底图预设)
 
+- mai userbind <userTempid> (绑定Userid)
+
+- mai unlock (解锁小黑屋/15mins)
 > 关于底图预设,请查询: [mai_plate](https://lucy.lemonkoi.one/mai_plate/) 底图通用
 
 ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20220041.png)
