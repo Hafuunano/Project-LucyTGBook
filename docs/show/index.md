@@ -143,7 +143,7 @@ description: ~
 
 - mai defplate (使用自带的maimai底图预设)
 
-- mai userbind <userTempid> (绑定Userid)
+- mai userbind [userTempid] (绑定Userid)
 
 - mai unlock (解锁小黑屋/15mins)
 
