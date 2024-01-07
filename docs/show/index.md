@@ -97,7 +97,7 @@ description: ~
 ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20221534.png)
 
 
-### 群老婆(GroupWife)
+### 群老婆(GroupWife) | 写废了 爱修不修（
 
 > 源自于 Lucy For Onebot 上的 老婆插件, 魔改于 FloatTech / Zerobot-Plugin 重写
 
@@ -129,8 +129,6 @@ description: ~
 
 ### MaiMai
 
-> 仅支持 水鱼 (DivingFish) 查分器
-
 - mai (查询您的 maimai B50)
 
 - mai bind (绑定用户查分名)
@@ -144,6 +142,10 @@ description: ~
 - mai defplate (使用自带的maimai底图预设)
 
 - mai userbind [userTempid] (绑定Userid)
+
+- mai lxbind [friendcode] (绑定好友码，适用于 Lxns  maimai查分器)
+
+- mai switch (更换查分源 可以从 lxns maimai 查分 |Diving Fish 水鱼 查分 选择)
 
 - mai unlock (解锁小黑屋/15mins)
 
