@@ -149,12 +149,17 @@ description: ~
 
 - mai unlock (解锁小黑屋/15mins)
 
+- mai region (查询出勤记录)
+
+- mai tokenbind [TokenID]
+
+- mai status (查询 maimai 服务状态)
+
 > 关于底图预设,请查询: [mai_plate](https://lucy.lemonkoi.one/mai_plate/) 底图通用
 
 ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20220041.png)
 
 * 底图设计来源于 [Isoheptane](https://github.com/Isoheptane)
-
 
 
 ### Phigros
@@ -221,9 +226,6 @@ description: ~
 > 会帮忙搜番的工具~
 
 - tracemoe
-
-
-
 
 
 ## Thanks
