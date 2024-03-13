@@ -92,7 +92,7 @@ description: ~
 
 - coinstaus [Enable/Disable] (启用/禁用 柠檬片互动)
 
-> 24小时尽可修改一次
+> 24小时只可修改一次
 
 ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20221534.png)
 
@@ -155,6 +155,10 @@ description: ~
 
 - mai status (查询 maimai 服务状态)
 
+- mai update 通过魔法同步你的游戏数据到 水鱼查分器上
+
+- mai tokenbind 绑定水鱼 Token
+
 > 关于底图预设,请查询: [mai_plate](https://lucy.lemonkoi.one/mai_plate/) 底图通用
 
 ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20220041.png)
@@ -204,7 +208,7 @@ description: ~
 
 > 没有介绍哦~ 去 @Lucy 试试回复一些东西吧~
 
-> 使用了2w+的回复库，看Lucy心情，可能就回复你了w
+> 使用了3w+的回复库，看Lucy心情，可能就回复你了w
 
 
 ### Status
