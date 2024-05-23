@@ -147,18 +147,6 @@ description: ~
 
 - mai switch (更换查分源 可以从 lxns maimai 查分 |Diving Fish 水鱼 查分 选择)
 
-- mai unlock (解锁小黑屋/15mins)
-
-- mai region (查询出勤记录)
-
-- mai tokenbind [TokenID]
-
-- mai status (查询 maimai 服务状态)
-
-- mai update 通过魔法同步你的游戏数据到 水鱼查分器上
-
-- mai tokenbind 绑定水鱼 Token
-
 > 关于底图预设,请查询: [mai_plate](https://lucy.lemonkoi.one/mai_plate/) 底图通用
 
 ![](https://cdn.himoyo.cn/manual/Screenshot%202023-11-18%20220041.png)
@@ -216,8 +204,6 @@ description: ~
 > 给 Lucy 检查一下身体吧
 
 - status
-
-~~虽然说已经被玩坏了x~~
 
 ### DataUpdate (数据更新)
 
